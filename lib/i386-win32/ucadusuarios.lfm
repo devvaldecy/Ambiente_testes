@@ -1,0 +1,68 @@
+inherited frmcad_usuarios: Tfrmcad_usuarios
+  Position = poOwnerFormCenter
+  inherited Panel1: TPanel
+    Caption = 'Cadastro de Usuários'
+    Font.Height = -19
+  end
+  inherited PageControl1: TPageControl
+    inherited TsPESQUISA: TTabSheet
+      object DBGrid1: TDBGrid[1]
+        Left = 0
+        Height = 279
+        Top = 50
+        Width = 575
+        Align = alClient
+        AlternateColor = 16574413
+        Color = clWindow
+        Columns = <        
+          item
+            Title.Caption = 'CÓDIGO'
+            Width = 70
+            FieldName = 'id_conta'
+          end        
+          item
+            Title.Caption = 'DESCRIÇÃO'
+            Width = 200
+            FieldName = 'descricao'
+          end        
+          item
+            Title.Caption = 'BANCO'
+            Width = 120
+            FieldName = 'banco'
+          end        
+          item
+            Title.Caption = 'AGÊNCIA'
+            FieldName = 'agencia'
+          end        
+          item
+            Title.Caption = 'CONTA'
+            Width = 100
+            FieldName = 'conta'
+          end>
+        FixedColor = clBlack
+        FixedCols = 0
+        Flat = True
+        Font.CharSet = ANSI_CHARSET
+        Font.Color = clBlack
+        Font.Height = -12
+        Font.Name = '@Arial Unicode MS'
+        Font.Pitch = fpVariable
+        Font.Quality = fqDraft
+        Font.Style = [fsBold]
+        Options = [dgTitles, dgColumnResize, dgColumnMove, dgRowLines, dgTabs, dgRowSelect, dgAlwaysShowSelection, dgConfirmDelete, dgCancelOnExit, dgDisableDelete, dgDisableInsert]
+        ParentFont = False
+        TabOrder = 1
+        TitleFont.CharSet = ANSI_CHARSET
+        TitleFont.Color = clWhite
+        TitleFont.Height = -12
+        TitleFont.Name = '@Arial Unicode MS'
+        TitleFont.Pitch = fpVariable
+        TitleFont.Quality = fqDraft
+        TitleFont.Style = [fsBold]
+      end
+    end
+  end
+  inherited pnpTITULO: TPanel
+    Caption = 'Cadastro de Usuários'
+  end
+end

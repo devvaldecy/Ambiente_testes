@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Fluxocaixa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="57" Y="15"/>
+        <UsageCount Value="204"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmprincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="84"/>
+        <CursorPos X="3" Y="86"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\uconfigurabanco.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmconfigurarbanco"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="62"/>
+        <CursorPos X="3" Y="58"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="conexao\utabela.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TabGlobal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="5" Y="45"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\ucad_padrao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmcad_padrao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="63"/>
+        <CursorPos X="9" Y="65"/>
+        <UsageCount Value="214"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\ucad_planoconta.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmcad_planoconta"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="19"/>
+        <CursorPos X="25" Y="141"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Classe\classe_plano.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="5" Y="89"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\ucad_contas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmcad_contas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="64" Y="9"/>
+        <UsageCount Value="204"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Classe\classe_conta.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="7" Y="45"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Classe\classe_lancamento.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="59" Y="135"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\ucad_lcto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frm_cad_lcto"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos X="14" Y="90"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\umovimento.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmmovimento"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="151"/>
+        <CursorPos X="3" Y="168"/>
+        <UsageCount Value="213"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\upesquisa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPesquisa"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="89"/>
+        <CursorPos X="9" Y="91"/>
+        <UsageCount Value="208"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Script\ucadusuarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmcad_usuarios"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="211"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\usobre.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSobre"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="44"/>
+        <CursorPos X="9" Y="65"/>
+        <UsageCount Value="220"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\ucad_empresa.pas"/>
+        <ComponentName Value="frmcad_empresas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="3"/>
+        <UsageCount Value="17"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view\ulogin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLogin"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="97"/>
+        <CursorPos X="25" Y="108"/>
+        <UsageCount Value="41"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="62" Column="21" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="63" Column="20" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="62" Column="3" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="102" Column="5" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ucad_contas.pas"/>
+        <Caret Line="105" Column="24" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="62" Column="13" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="9" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="66" Column="27" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="62" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="61" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="63" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="53" Column="11" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="52" Column="5" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="51" Column="5" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="50" Column="5" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="51" Column="5" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="52" Column="5" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="51" Column="5" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="52" Column="5" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="75" Column="9" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="9" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="17" Column="68"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="9" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="99" Column="10" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="view\umovimento.pas"/>
+        <Caret Line="64" Column="3" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="view\umovimento.pas"/>
+        <Caret Line="154" Column="3" TopLine="151"/>
+      </Position>
+      <Position>
+        <Filename Value="view\uprincipal.pas"/>
+        <Caret Line="149" Column="27" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="view\uprincipal.pas"/>
+        <Caret Line="86" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="98" Column="34" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="view\ulogin.pas"/>
+        <Caret Line="69" Column="5" TopLine="65"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
